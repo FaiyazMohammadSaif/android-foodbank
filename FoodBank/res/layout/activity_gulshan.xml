@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      android:layout_weight="30"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent">
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     android:background="@drawable/resta"
+    android:orientation="vertical" >
+    
+ <Button
+        android:id="@+id/Button_BBQ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="50dp"
+        android:text="@string/bbq"
+        android:textColor="#14487c"
+        android:textStyle="bold"
+        android:textSize="50sp" />
+  
+  <Button
+         android:id="@+id/Button_BURGER_WORLD"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/burgerworld"
+         android:textColor="#14487c"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+  <Button
+         android:id="@+id/Button_BITTER_SWEET_CAFE"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/bittersweet"
+         android:textColor="#14487c"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+    <Button
+         android:id="@+id/Button_BARBECUE_FLAMES"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/barbecue"
+         android:textColor="#14487c"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+     <Button
+         android:id="@+id/Button_GLORIA"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/gloria"
+         android:textColor="#14487c"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   <Button
+         android:id="@+id/Button_HANDI"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/handi"
+         android:textColor="#14487c"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+   <Button
+         android:id="@+id/Button_KHAZANA"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/khazana"
+         android:textColor="#14487c"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+   <Button
+        android:id="@+id/Button_PIZZA_INN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+        android:text="@string/pizzain"
+        android:textColor="#14487c"
+        android:textStyle="bold"
+        android:textSize="50sp" />
+   
+   
+    
+    
+   
+    
+    <Button
+         android:id="@+id/Button_KENNY_ROGERS_ROASTERS"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/kenny"
+         android:textColor="#14487c"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+    <Button
+         android:id="@+id/Button_SALTZ"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/saltz"
+         android:textColor="#14487c"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   <Button
+         android:id="@+id/Button_TOPKAPI"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/topkapi"
+         android:textColor="#14487c"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   <Button
+         android:id="@+id/Button_VILLAGE"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/village"
+         android:textColor="#14487c"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+ </LinearLayout>
+ </ScrollView>

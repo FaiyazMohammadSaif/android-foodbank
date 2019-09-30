@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      android:layout_weight="30"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent">
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     android:background="@drawable/be"
+    android:orientation="vertical" >
+    
+<Button
+         android:id="@+id/Button_FAZITAS"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="150dp"
+         android:text="@string/fazitas"
+         android:textColor="#ab7801"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+    <Button
+        android:id="@+id/Button_GRAB_N_GO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="50dp"
+        android:text="@string/grabngo"
+        android:textColor="#ab7801"
+        android:textStyle="bold"
+        android:textSize="50sp" />
+  
+  <Button
+         android:id="@+id/Button_GEORGES_CAFE"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/georgescafe"
+         android:textColor="#ab7801"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+   <Button
+         android:id="@+id/Button_HUNGRY_DUCK"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/hungryduck"
+         android:textColor="#ab7801"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+   <Button
+         android:id="@+id/Button_HOT_BOX"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/hotbox"
+         android:textColor="#ab7801"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+   
+   <Button
+         android:id="@+id/Button_Button_ITALIAN_PIZZA_HOUSE"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/italian"
+         android:textColor="#ab7801"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   <Button
+         android:id="@+id/Button_MACK_N_JACK"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/mack"
+         android:textColor="#ab7801"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   <Button
+         android:id="@+id/Button_THE_BACKYARD_CHEF"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/backyard"
+         android:textColor="#ab7801"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   <Button
+         android:id="@+id/Button_TBC_EXPRESS"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/tbc"
+         android:textColor="#ab7801"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   <Button
+         android:id="@+id/Button_TURKISH_KABABNPIZZA"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/turkish"
+         android:textColor="#ab7801"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+   
+    
+</LinearLayout>
+ </ScrollView>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      android:layout_weight="30"
+      
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent">
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/re"
+    android:orientation="vertical" >
+  
+    <Button
+         android:id="@+id/Button_BFC"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="100dp"
+         android:layout_marginLeft="50dp"
+         android:text="@string/bfc"
+         android:textColor="#c0392b"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+    
+     <Button
+         android:id="@+id/Button_BOOMERS_CAFE"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="50dp"
+         android:layout_marginLeft="50dp"
+         android:text="@string/boomers"
+         android:textColor="#c0392b"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+     
+     <Button
+         android:id="@+id/Button_DOSA_EXPRESS"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="50dp"
+         android:layout_marginLeft="50dp"
+         android:text="@string/dosaexpress"
+         android:textColor="#c0392b"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+      <Button
+         android:id="@+id/Button_KFC"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/kfc"
+         android:textColor="#c0392b"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+     <Button
+         android:id="@+id/Button_LORANGE"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/lorange"
+         android:textColor="#c0392b"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+
+     
+     
+     <Button
+         android:id="@+id/Button_NAWABI_VOJ"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/nawabivoj"
+         android:textColor="#c0392b"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+
+     
+ <Button
+         android:id="@+id/Button_PIZZAHUT"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/pizzahut"
+         android:textColor="#c0392b"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+ <Button
+         android:id="@+id/Button_RAZZLE"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/razzle"
+         android:textColor="#c0392b"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+ <Button
+         android:id="@+id/Button_SHAWARMA_HOUSE"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/shawarmahouse"
+         android:textColor="#c0392b"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+
+     <Button
+         android:id="@+id/Button_SWISS_BAKERY"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/swiss"
+         android:textColor="#c0392b"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+     <Button
+         android:id="@+id/Button_THIRTY_THREE"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="50dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/thirty"
+         android:textColor="#c0392b"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+     
+   </LinearLayout>
+      </ScrollView>
+      
+    
+    

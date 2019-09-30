@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      android:layout_weight="30"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     android:background="@drawable/r"
+    android:orientation="vertical" >
+    
+ <Button
+        android:id="@+id/Button_ARABIAN_FAST_FOOD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="250dp"
+        android:text="@string/arabian"
+        android:textColor="#df1414"
+        android:textStyle="bold"
+        android:textSize="50sp" />
+  
+  <Button
+         android:id="@+id/Button_AJO"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+        android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/ajo"
+         android:textColor="#df1414"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+   <Button
+         android:id="@+id/Button_AMERICAN_BURGER"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/americanburger"
+         android:textColor="#df1414"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+   <Button
+         android:id="@+id/Button_BREAD_AND_BEYOND"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/breadnbeyond"
+         android:textColor="#df1414"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   <Button
+         android:id="@+id/Button_BABURCHI_RESTURANT"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/baburchi"
+         android:textColor="#df1414"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   <Button
+         android:id="@+id/Button_CAFE_MANGO"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/cafemango"
+         android:textColor="#df1414"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+   <Button
+         android:id="@+id/Button_DHABA"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/dhaba"
+         android:textColor="#df1414"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   <Button
+        android:id="@+id/Button_DOMINOUS_PIZZA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/dominus"
+        android:textColor="#df1414"
+        android:textStyle="bold"
+        android:textSize="50sp" />
+   <Button
+         android:id="@+id/Button_KORAI_GOST"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/korai"
+         android:textColor="#df1414"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+   <Button
+         android:id="@+id/Button_LABAMBA"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/labamba"
+         android:textColor="#df1414"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+   <Button
+         android:id="@+id/Button_NANDOS_DHANMONDI"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/nandosdhanmondi"
+         android:textColor="#df1414"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+   
+   
+  <Button
+         android:id="@+id/Button_RIZBIZ_CAFE"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/rizbiz"
+         android:textColor="#df1414"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+    
+     <Button
+         android:id="@+id/Button_WESTERN_GRILL_DHANMONDI"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/westerngrill"
+         android:textColor="#df1414"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+     
+    
+    
+</LinearLayout>
+ </ScrollView>

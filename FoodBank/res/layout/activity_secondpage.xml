@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/res"
+    android:orientation="vertical" >
+    
+  <TextView
+        android:id="@+id/Text_SELECTAREA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="80dp"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:text="@string/area"
+        android:textStyle="bold"
+        android:textSize="90sp"
+        android:textColor="#e51212">
+         
+    </TextView> 
+
+  <Button
+         android:id="@+id/Button_BailyRoad"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="200dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/bailyrd"
+         android:textColor="#fbf005"
+         android:textSize="80sp" />
+    <Button
+        android:id="@+id/Button_Banani"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="@string/ban"
+        android:textColor="#fbf005"
+        android:textSize="80sp" />
+
+    <Button
+        android:id="@+id/Button_Dhanmondi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="@string/dhanm"
+        android:textColor="#fbf005"
+        android:textSize="80sp" />
+
+     <Button
+         android:id="@+id/Button_Gulshan"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+         android:text="@string/gul"
+         android:textColor="#fbf005"
+         android:textSize="80sp" />
+
+    
+
+     <Button
+         android:id="@+id/Button_Mirpur"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+         android:text="@string/mirpur"
+         android:textColor="#fbf005"
+         android:textSize="80sp" />
+
+     <Button
+         android:id="@+id/Button_Uttara"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="20dp"
+         android:layout_marginTop="20dp"
+         android:layout_gravity="center"
+         android:text="@string/uttara"
+         android:textColor="#fbf005"
+         android:textSize="80sp" />
+     
+     
+
+</LinearLayout>
+
+
+    
+
+
+
+

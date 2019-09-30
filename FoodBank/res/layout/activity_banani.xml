@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      android:layout_weight="30"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent">
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/e" 
+    android:orientation="vertical" >
+     
+ <Button
+              android:id="@+id/Button_BFC"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="30dp"
+              android:layout_marginLeft="250dp"
+              android:text="@string/bfc"
+              android:textStyle="bold"
+              android:textColor="#fbf005"
+              android:textSize="50sp" />
+
+    <Button
+              android:id="@+id/Button_BOOMERS_CAFE"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="250dp"
+               android:layout_marginTop="50dp"
+              android:text="@string/boomers"
+              android:textStyle="bold"
+              android:textColor="#fbf005"
+              android:textSize="50sp" />
+   <Button
+              android:id="@+id/Button_CAFE_HOLLYWOOD"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="250dp"
+              android:layout_marginTop="50dp"
+              android:text="@string/cafehollywood"
+              android:textColor="#fbf005"
+              android:textStyle="bold"
+              android:textSize="50sp" />
+    <Button
+              android:id="@+id/Button_DHABA"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="250dp"
+              android:layout_marginTop="50dp"
+              android:text="@string/dhaba"
+              android:textStyle="bold"
+              android:textColor="#fbf005"
+              android:textSize="50sp" />
+    
+    
+
+     <Button
+         android:id="@+id/Button_NANDOS"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/nandos"
+         android:textColor="#fbf005"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+        
+         
+      <Button
+              android:id="@+id/Button_LIVE_KITCHEN"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="250dp"
+              android:layout_marginTop="50dp"
+              android:text="@string/live"
+              android:textStyle="bold"
+              android:textColor="#fbf005"
+              android:textSize="50sp" /> 
+              
+      <Button
+              android:id="@+id/Button_LOITER"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="250dp"
+              android:layout_marginTop="50dp"
+              android:text="@string/loiter"
+              android:textStyle="bold"
+              android:textColor="#fbf005"
+              android:textSize="50sp" />
+     <Button
+              android:id="@+id/Button_PREETOM"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="250dp"
+              android:layout_marginTop="50dp"
+              android:text="@string/preetom"
+              android:textColor="#fbf005"
+              android:textStyle="bold"
+              android:textSize="50sp" />
+      <Button
+         android:id="@+id/Button_RED_EMPEROR"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="250dp"
+         android:layout_marginTop="50dp"
+         android:text="@string/redemperor"
+         android:textColor="#fbf005"
+         android:textStyle="bold"
+         android:textSize="50sp" />
+
+        
+
+          <Button
+              android:id="@+id/Button_STAR_KABAB"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="250dp"
+              android:layout_marginTop="50dp"
+              android:text="@string/star"
+              android:textColor="#fbf005"
+              android:textStyle="bold"
+              android:textSize="50sp" />
+
+          <Button
+              android:id="@+id/Button_TIMEOUT"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="250dp"
+              android:layout_marginTop="50dp"
+              android:text="@string/timeout"
+              android:textStyle="bold"
+              android:textColor="#fbf005"
+              android:textSize="50sp" />
+
+     <Button
+              android:id="@+id/Button_TASTEBUD"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="250dp"
+              android:layout_marginTop="50dp"
+              android:text="@string/tastebud"
+              android:textColor="#fbf005"
+              android:textStyle="bold"
+              android:textSize="50sp" />
+     <Button
+              android:id="@+id/Button_TARKA"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginLeft="250dp"
+              android:layout_marginTop="50dp"  
+              android:text="@string/tarka"
+              android:textStyle="bold"
+              android:textColor="#fbf005"
+              android:textSize="50sp" />
+     
+         
+</LinearLayout>
+ </ScrollView>

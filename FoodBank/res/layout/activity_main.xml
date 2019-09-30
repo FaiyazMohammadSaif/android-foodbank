@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/restaurant"
+    android:orientation="vertical"
+    android:gravity="center" >
+
+    <TextView
+        android:id="@+id/Text_Welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginLeft="20dp"
+        android:layout_weight="1"
+        android:text="@string/welcome"
+        android:textSize="150sp"
+        android:textStyle="bold"
+        android:textColor="#fbf005"
+        android:gravity="center" >
+    </TextView>
+
+    
+
+    <TextView
+        android:id="@+id/Text_Foodbank"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/food"
+        android:textStyle="bold|italic"
+        android:textColor="#fbf005"
+        android:textSize="140sp" />
+
+    <Button
+        android:id="@+id/Button_click"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight=".5"
+        android:text="@string/here"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="#fbf005"
+        android:textSize="50sp" />
+
+</LinearLayout>
